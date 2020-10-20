@@ -12,5 +12,8 @@ Prompts user for an artist/band and a song by them, then outputs the lyrics of t
 2. Get into the directory
 ```cd Lyrics```
 
-3. Run the program
+3. Install python libraries
+```pip install beautifulsoup requests```
+
+4. Run the program
 ```python3 lyrics.py```
