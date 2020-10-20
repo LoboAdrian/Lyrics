@@ -13,7 +13,7 @@ Prompts user for an artist/band and a song by them, then outputs the lyrics of t
 ```cd Lyrics```
 
 3. Install python libraries
-```pip install beautifulsoup requests```
+```pip install -r requirements.txt```
 
 4. Run the program
 ```python3 lyrics.py```
